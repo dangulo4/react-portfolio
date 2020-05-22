@@ -23,15 +23,19 @@ import YC from '../images/yelpcamp.gif';
 import BB from '../images/pic2.jpg';
 import WA from '../images/weather.jpg';
 import PG from '../images/pic5.jpg';
+import Developer from '../images/developer.jpg';
 
 class Portfolio extends Component {
   render() {
     return (
-      <MDBContainer size="lg">
+      <MDBContainer size="md" style={{ marginTop: '50px' }}>
         <h1 className="lg-heading">
           This is my <span className="text-secondary">Portfolio</span>
         </h1>
+
         <h2 className="sm-heading">Projects I have accomplished....</h2>
+
+        <section backgroundimage={Developer}></section>
         <MDBRow top>
           <MDBCol>
             <MDBCard wide>
