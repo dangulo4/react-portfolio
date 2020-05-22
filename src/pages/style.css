@@ -1,0 +1,4 @@
+#parallaxintro .view {
+  min-height: 75vh !important;
+  height: unset !important;
+}
