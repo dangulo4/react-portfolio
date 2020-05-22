@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b23852a58ef14e923d68440314f09703",
+    "revision": "3dd12bd96f8b1f468f5cd9e33ce95232",
     "url": "/index.html"
   },
   {
-    "revision": "aeef735500b2c5b48335",
+    "revision": "1cc39a03dbfbdcfae504",
     "url": "/static/css/main.edba492c.chunk.css"
   },
   {
-    "revision": "e188dce71615df77533a",
-    "url": "/static/js/2.1f0976e1.chunk.js"
+    "revision": "adbd0b7101db4e035553",
+    "url": "/static/js/2.0ac72a8d.chunk.js"
   },
   {
     "revision": "b46eae19120e0343c25f399c83a404d7",
-    "url": "/static/js/2.1f0976e1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0ac72a8d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aeef735500b2c5b48335",
-    "url": "/static/js/main.6f3f1652.chunk.js"
+    "revision": "1cc39a03dbfbdcfae504",
+    "url": "/static/js/main.6bba5fbd.chunk.js"
   },
   {
     "revision": "a8f97462f4135fc3941b",
     "url": "/static/js/runtime-main.39142cf7.js"
+  },
+  {
+    "revision": "19b7b5ca6e5103522ad420f2f4c538d1",
+    "url": "/static/media/Resume_DanielAngulo.19b7b5ca.pdf"
   },
   {
     "revision": "8604d68ac4aaa4cdf6ff451dbe73d6db",
