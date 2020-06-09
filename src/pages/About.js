@@ -1,11 +1,11 @@
 import React from 'react';
 import Hero from '../components/Hero';
-import Container from '../components/Container';
 import Row from '../components/Row';
 import Col from '../components/Col';
 import Cactus from '../images/cactus.jpg';
 import Headshot from '../images/headshot.jpg';
 import './style.css';
+import Page from '../components/Page/Page';
 
 class About extends React.Component {
   render() {
@@ -36,7 +36,8 @@ class About extends React.Component {
             </a>
           </div>
         </Hero>
-        <Container style={{ marginTop: 30 }}>
+
+        <Page title="About-Me">
           <Row>
             <Col size="md-12">
               <h1 className="lg-heading">
@@ -86,7 +87,7 @@ class About extends React.Component {
               </div>
             </Col>
           </Row>
-        </Container>
+        </Page>
       </div>
     );
   }
